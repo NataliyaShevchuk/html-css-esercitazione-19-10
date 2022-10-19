@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    padding: 2rem 0;
+}
+.jumbotrone{
+    padding-top: 150px;
+    background-color: blue;
+}
+.banner{
+    background-color: aqua;
+    padding: 0;
+}
